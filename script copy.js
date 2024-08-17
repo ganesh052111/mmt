@@ -150,7 +150,7 @@ var assn = 10
 //strict operators 
 //ternary operator 
 //bitwise opertor
-
+//added update
 
 
 
